@@ -1,4 +1,4 @@
-# Android Cookbook
+# Python Cookbook
 
-- [Python Crash Reporting Recipe](https://labstack.com/cookbook/python-crash-reporting)
+- [Python Error Reporting Recipe](https://labstack.com/cookbook/python-error-reporting)
 

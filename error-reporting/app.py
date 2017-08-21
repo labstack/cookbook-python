@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Initialize LabStack client and log service
 client = Client('<API_KEY>')
 log = client.log()
-log.add_fields(app_id='1', app_name='crash-reporting')
+log.add_fields(app_id='1', app_name='error-reporting')
 log.dispatch_interval = 5
 
 # Routes
